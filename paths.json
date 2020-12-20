@@ -1,0 +1,20 @@
+{
+    "account": "https://raw.githubusercontent.com/n0sc0p3/Vidum/master/vidum_app_data/",
+    "videos": [
+        {
+            "name": "Million Days",
+            "fileName": "million_days",
+            "author": "Admin"
+        },
+        {
+            "name": "Capital Letters",
+            "fileName": "capital_letters",
+            "author": "Admin"
+        },
+        {
+            "name": "Timber",
+            "fileName": "timber",
+            "author": "Admin"
+        }
+    ]
+}
