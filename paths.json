@@ -1,7 +1,7 @@
 {
   "account": "https://raw.githubusercontent.com/n0sc0p3/Vidum/master/vidum_app_data/",
   "videos": {
-    "english": [
+    "hindi": [
       {
         "name": "Million Days",
         "fileName": "million_days",
@@ -28,7 +28,7 @@
         "author": "Admin"
       }
     ],
-    "hindi": [
+    "english": [
       {
         "name": "Yaarr Ni Milyaa",
         "fileName": "yaarr_ni_milyaa",
